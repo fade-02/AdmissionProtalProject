@@ -4,7 +4,7 @@
     <active>false</active>
     <description>This record type will be used to store the Undergraduate Program records.</description>
     <label>Academic Program</label>
-    <picklistValues>
+    <!-- <picklistValues>
         <picklist>AccountSource</picklist>
         <values>
             <fullName>Other</fullName>
@@ -26,7 +26,7 @@
             <fullName>Web</fullName>
             <default>false</default>
         </values>
-    </picklistValues>
+    </picklistValues> -->
     <picklistValues>
         <picklist>Industry</picklist>
         <values>
@@ -192,7 +192,7 @@
             <default>false</default>
         </values>
     </picklistValues>
-    <picklistValues>
+    <!-- <picklistValues>
         <picklist>Type</picklist>
         <values>
             <fullName>Channel Partner %2F Reseller</fullName>
@@ -222,5 +222,5 @@
             <fullName>Technology Partner</fullName>
             <default>false</default>
         </values>
-    </picklistValues>
+    </picklistValues> -->
 </RecordType>
