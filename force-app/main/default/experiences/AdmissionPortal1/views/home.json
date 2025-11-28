@@ -1,0 +1,73 @@
+{
+  "appPageId" : "bde82fd5-ea25-4e4c-ae0c-956aa2146135",
+  "componentName" : "siteforce:sldsTwoCol84SidebarFeaturedLayout",
+  "dataProviders" : [ ],
+  "id" : "35f32906-c136-45f2-8e3c-ca728de95b72",
+  "label" : "Home",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "bannerText" : "",
+        "bannerTextWithKnowledge" : "Explore other <a href=\"javascript:void(0)\" class=\"headlineArticles\">articles</a> and <a href=\"javascript:void(0)\" class=\"headlineDiscussions\">discussions</a> on this topic.",
+        "bannerTextWithoutKnowledge" : "Explore other <a href=\"javascript:void(0)\" class=\"headlineDiscussions\">discussions</a> on this topic.",
+        "pageType" : "",
+        "showSubTopics" : true,
+        "title" : "WELCOME TO RIO UNIVERSITY!",
+        "uniqueNameOrId" : ""
+      },
+      "componentName" : "forceCommunity:headline",
+      "id" : "fcac0d98-0f6f-4844-ad43-5a0406c20593",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "5d587984-d906-4858-a8fe-665e0792514a",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "id" : "ea490503-6d26-4f1f-99b9-f2acc22cc578",
+    "regionName" : "featured",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "flowArguments" : "",
+        "flowName" : "TestCatalog"
+      },
+      "componentName" : "forceCommunity:flowCommunity",
+      "id" : "aedd32bc-c57f-4751-99ec-c768462488cf",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "9d366245-79b9-4944-8cca-cb18d1ef4165",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "456a6a7c-7166-4cef-bad7-8b868efbfe77",
+    "regionName" : "sidebar",
+    "type" : "region"
+  }, {
+    "id" : "dc928eb7-e4d4-44a3-b7fb-eddc75c4a880",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "customHeadTags" : "",
+        "description" : "",
+        "title" : "Home"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "901c04aa-01e2-4295-a29d-67bf5ec31d03",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "22cb6122-165f-49a2-9bad-6dbeaa57dd12",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "home"
+}

@@ -1,0 +1,12 @@
+{
+  "activeViewId" : "050c300b-763d-4f55-842e-e971f6d54944",
+  "appPageId" : "bde82fd5-ea25-4e4c-ae0c-956aa2146135",
+  "configurationTags" : [ ],
+  "devName" : "NEW_APPLICATION__c",
+  "id" : "90b2950f-40c2-4568-9804-a9e5b90dfc7d",
+  "label" : "NEW APPLICATION",
+  "pageAccess" : "UseParent",
+  "routeType" : "custom-new-application",
+  "type" : "route",
+  "urlPrefix" : "new-application"
+}
