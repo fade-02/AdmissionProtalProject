@@ -4,20 +4,5 @@
     <entityName>Application__c</entityName>
     <fieldName>Application_Status__c</fieldName>
     <masterLabel>Application Status</masterLabel>
-    <pathAssistantSteps>
-        <picklistValueName>Approved</picklistValueName>
-    </pathAssistantSteps>
-    <pathAssistantSteps>
-        <picklistValueName>Drafted</picklistValueName>
-    </pathAssistantSteps>
-    <pathAssistantSteps>
-        <picklistValueName>Pending Review</picklistValueName>
-    </pathAssistantSteps>
-    <pathAssistantSteps>
-        <picklistValueName>Rejected</picklistValueName>
-    </pathAssistantSteps>
-    <pathAssistantSteps>
-        <picklistValueName>Submitted</picklistValueName>
-    </pathAssistantSteps>
     <recordTypeName>__MASTER__</recordTypeName>
 </PathAssistant>
